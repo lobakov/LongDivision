@@ -5,7 +5,7 @@
     <groupId>ua.com.foxminded</groupId>
     <artifactId>long-division</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>LongDivisionApp</name>
+    <name>LongDivision</name>
     <description>
         Application that divides numbers using long division algorithm and prints result into console
     </description>
